@@ -6,4 +6,4 @@ if st.button("submit"):
     st.success("you are eligible to vote")
   else:
     st.write("you are not eligible to vote")
-  
+
